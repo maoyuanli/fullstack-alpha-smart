@@ -1,0 +1,9 @@
+[submodule "django-api"]
+	path = django-api
+	url = git@github.com:maoyuanli/alphasmartback.git
+[submodule "spring-api"]
+	path = spring-api
+	url = git@github.com:maoyuanli/alphaspring.git
+[submodule "react-frontend"]
+	path = react-frontend
+	url = git@github.com:maoyuanli/alphasmartfront.git
